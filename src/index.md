@@ -1,6 +1,7 @@
 # Hi, I'm Gnu
 
-This website was made using a Makefile.
+This website is pretty incomplete. 
 
-Honestly, it's been pretty great, and easy, using the Markdown Perl script to compile
-my Markdown sources into Hypertext Markup Language
+It looks like it, doesn't it.
+
+But hey, at least we got something, and something is better than nothing.
