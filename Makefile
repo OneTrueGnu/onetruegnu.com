@@ -14,6 +14,6 @@ build/index.html: src/index.md $(DOCHEAD) $(DOCTRAIL)
 build/style.css: src/style.css
 	cp src/style.css build/style.css
 
-clean:
-	rm -rf build
-	mkdir build
+# clean:
+	# rm -rf build
+	# mkdir build
