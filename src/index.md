@@ -1,4 +1,4 @@
-# Hi, I'm Gnu
+# Hi, I'm Gnu!
 
 This website is pretty incomplete. 
 
