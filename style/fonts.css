@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: "SourceSerif4-Bold";
+    src: url("/fonts/SourceSerif4-Bold.ttf");
+}
+@font-face {
+    font-family: "SourceSerif4-BoldItalic";
+    src: url("/fonts/SourceSerif4-BoldItalic.ttf");
+}
+@font-face {
+    font-family: "SourceSerif4-SemiBold";
+    src: url("/fonts/SourceSerif4-SemiBold.ttf");
+}
+@font-face {
+    font-family: "SourceSerif4-SemiBoldItalic";
+    src: url("/fonts/SourceSerif4-SemiBoldItalic.ttf");
+}
+@font-face {
+    font-family: "SourceSerif4-Medium";
+    src: url("/fonts/SourceSerif4-Medium.ttf");
+}
+@font-face {
+    font-family: "SourceSerif4-MediumItalic";
+    src: url("/fonts/SourceSerif4-MediumItalic.ttf");
+}
+@font-face {
+    font-family: "SourceSerif4-Light";
+    src: url("/fonts/SourceSerif4-Light.ttf");
+}
+@font-face {
+    font-family: "SourceSerif4-LightItalic";
+    src: url("/fonts/SourceSerif4-LightItalic.ttf");
+}
