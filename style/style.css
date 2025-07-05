@@ -45,6 +45,10 @@ p {
     font-size: 18pt;
     line-height: 1.3;
     text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
 }
 
 ul {
@@ -86,12 +90,25 @@ a:hover {
 @media (prefers-color-scheme: dark) {
     a:hover {
         background-color: rgba(167, 122, 65, 0.144);
-        border-radius: 5pt;
-        padding: 2pt;
-        margin: -2pt;
     }
 }
 
 hr {
     color: black;
+}
+
+.recommendationSection ul li p {
+    margin-left: 0pt;
+}
+
+.titleBar {
+    position: sticky;
+    top: 0;
+    background-color: #f0f0f0;
+}
+
+@media (prefers-color-scheme: dark) {
+    .titleBar {
+        background-color: #151525;
+    }
 }
